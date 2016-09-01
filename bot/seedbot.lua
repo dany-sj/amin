@@ -240,7 +240,7 @@ An advanced administration bot based on TG-CLI written in Lua
 https://github.com/dany-sj/armin
 
 Our team!
-#я̃̾éd̃̾.éч̃̾é  (@REDeye_sdo2@Iwals)
+#я̃̾éd̃̾.éч̃̾é  (@redeye_sudo)
 
 Special thanks to:
 Danyal (@xXx_Sudo_kings_xXx)
